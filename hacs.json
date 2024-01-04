@@ -1,0 +1,7 @@
+{
+    "name": "daterange",
+    "country": ["AU"],
+    "render_readme": true,
+    "domains": ["binary_sensor"],
+    "version": 0.1
+}

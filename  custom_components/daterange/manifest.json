@@ -1,0 +1,10 @@
+{
+    "domain": "daterange",
+    "name": "daterange",
+    "documentation": "https://github.com/kuchel77/daterange/",
+    "requirements": [],
+    "codeowners": ["@kuchel77"],
+    "quality_scale": "internal",
+    "iot_class": "local_polling",
+    "version": "0.1"
+}

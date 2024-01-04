@@ -1,0 +1,1 @@
+Similar to workday, but with ranges of dates. Works to enable school holidays for instance.
