@@ -2,6 +2,7 @@
     "domain": "daterange",
     "name": "daterange",
     "documentation": "https://github.com/kuchel77/daterange/",
+    "dependencies": [],
     "requirements": [],
     "codeowners": ["@kuchel77"],
     "quality_scale": "internal",
